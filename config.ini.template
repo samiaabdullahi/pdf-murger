@@ -1,0 +1,27 @@
+[PATHS]
+; Folder where PDF files will be placed for processing
+source_folder = ./incoming_pdfs
+
+; Folder where processed PDFs will be moved
+archive_folder = ./archive
+
+; Folder where merged PDFs will be saved
+merged_folder = ./merged_pdfs
+
+[EMAIL]
+; SMTP Server Settings
+; For Gmail: smtp.gmail.com, port 587
+; For Outlook: smtp.office365.com, port 587
+smtp_server = smtp.gmail.com
+smtp_port = 587
+
+; Your email credentials
+sender_email = your_email@gmail.com
+sender_password = your_app_password_here
+
+; Recipient emails (comma-separated)
+recipients = recipient1@example.com, recipient2@example.com
+
+; Email content
+subject = Daily Merged PDF Report
+body = Please find attached the merged PDF document.

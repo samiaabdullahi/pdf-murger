@@ -1,0 +1,66 @@
+2026-01-07 14:35:02,619 - INFO - PDF Processor started
+2026-01-07 14:35:02,629 - INFO - Configuration loaded successfully
+2026-01-07 14:35:02,629 - INFO - ==================================================
+2026-01-07 14:35:02,630 - INFO - Starting PDF merge process
+2026-01-07 14:35:02,633 - INFO - Found 2 PDF files
+2026-01-07 14:35:02,653 - ERROR - Error reading incoming_pdfs\test1.pdf: EOF marker not found
+2026-01-07 14:35:02,656 - ERROR - Error reading incoming_pdfs\test2.pdf: EOF marker not found
+2026-01-07 14:35:04,810 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-47d8717d8fasm9342465e9.10 - gsmtp')
+2026-01-07 14:35:04,818 - INFO - Archived: test1.pdf
+2026-01-07 14:35:04,838 - INFO - Archived: test2.pdf
+2026-01-07 14:35:04,845 - INFO - Process completed successfully!
+2026-01-07 14:35:04,847 - INFO - - Merged 2 files
+2026-01-07 14:35:04,848 - INFO - - Email sent: No
+2026-01-07 14:35:04,848 - INFO - - Output: merged_20260107_143502.pdf
+2026-01-07 14:58:59,945 - INFO - PDF Processor started
+2026-01-07 14:58:59,947 - INFO - Configuration loaded successfully
+2026-01-07 14:58:59,947 - INFO - ==================================================
+2026-01-07 14:58:59,947 - INFO - Starting PDF merge process
+2026-01-07 14:58:59,949 - INFO - Found 2 PDF files
+2026-01-07 14:58:59,982 - INFO - Added: ASIA & SAMIA TASK.pdf
+2026-01-07 14:59:00,087 - INFO - Added: Automated PDF Merge and Email Distribution.pdf
+2026-01-07 14:59:05,833 - INFO - Archived: ASIA & SAMIA TASK.pdf
+2026-01-07 14:59:05,836 - INFO - Archived: Automated PDF Merge and Email Distribution.pdf
+2026-01-07 14:59:05,837 - INFO - Process completed successfully!
+2026-01-07 14:59:05,838 - INFO - - Merged 2 files
+2026-01-07 14:59:05,838 - INFO - - Email sent: Yes
+2026-01-07 14:59:05,839 - INFO - - Output: merged_20260107_145900.pdf
+2026-01-09 09:07:23,933 - INFO - PDF Processor started
+2026-01-09 09:07:23,949 - INFO - Configuration loaded successfully
+2026-01-09 09:07:23,965 - INFO - ==================================================
+2026-01-09 09:07:23,967 - INFO - Starting PDF merge process
+2026-01-09 09:07:23,968 - INFO - Found 2 PDF files
+2026-01-09 09:07:24,015 - INFO - Added: Assigment one.docx.pdf
+2026-01-09 09:07:29,143 - INFO - Archived: Assigment one.docx.pdf
+2026-01-09 09:07:29,155 - INFO - Process completed successfully!
+2026-01-09 09:07:29,156 - INFO - - Merged 2 files
+2026-01-09 09:07:29,157 - INFO - - Email sent: Yes
+2026-01-09 09:07:29,158 - INFO - - Output: merged_20260109_090724.pdf
+2026-01-09 09:16:36,824 - INFO - PDF Processor started
+2026-01-09 09:16:36,846 - INFO - Configuration loaded successfully
+2026-01-09 09:16:36,853 - INFO - ==================================================
+2026-01-09 09:16:36,854 - INFO - Starting PDF merge process
+2026-01-09 09:16:36,858 - INFO - Found 2 PDF files
+2026-01-09 09:16:36,915 - INFO - Added: Searching apo.pdf
+2026-01-09 09:16:42,678 - INFO - Archived: Searching apo.pdf
+2026-01-09 09:16:42,707 - INFO - Process completed successfully!
+2026-01-09 09:16:42,708 - INFO - - Merged 2 files
+2026-01-09 09:16:42,709 - INFO - - Email sent: Yes
+2026-01-09 09:16:42,711 - INFO - - Output: merged_20260109_091636.pdf
+2026-01-09 15:41:20,552 - INFO - PDF Processor started
+2026-01-09 15:41:20,564 - INFO - Configuration loaded successfully
+2026-01-09 15:41:20,586 - INFO - ==================================================
+2026-01-09 15:41:20,589 - INFO - Starting PDF merge process
+2026-01-09 15:41:20,592 - INFO - Found 4 PDF files
+2026-01-09 15:41:20,649 - INFO - Added: Automated PDF Merge and Email Distribution.pdf
+2026-01-09 15:41:20,667 - INFO - Added: Test Plan - Updates 01-01.pdf
+2026-01-09 15:41:20,828 - INFO - Added: merged_20260109_090724.pdf
+2026-01-09 15:41:20,903 - INFO - Added: merged_20260109_091636.pdf
+2026-01-09 15:41:30,558 - INFO - Archived: Automated PDF Merge and Email Distribution.pdf
+2026-01-09 15:41:30,563 - INFO - Archived: Test Plan - Updates 01-01.pdf
+2026-01-09 15:41:30,569 - INFO - Archived: merged_20260109_090724.pdf
+2026-01-09 15:41:30,572 - INFO - Archived: merged_20260109_091636.pdf
+2026-01-09 15:41:30,574 - INFO - Process completed successfully!
+2026-01-09 15:41:30,577 - INFO - - Merged 4 files
+2026-01-09 15:41:30,578 - INFO - - Email sent: Yes
+2026-01-09 15:41:30,578 - INFO - - Output: merged_20260109_154120.pdf
